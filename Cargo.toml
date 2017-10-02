@@ -1,0 +1,13 @@
+[package]
+name = "logos"
+version = "0.0.1"
+authors = ["Bruce Mitchener <bruce.mitchener@gmail.com>"]
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = ""
+keywords = ["types", "bidirectional"]
+homepage = "https://github.com/endoli/logos.rs"
+repository = "https://github.com/endoli/logos.rs"
+documentation = "https://endoli.github.io/logos.rs/"
+
+[dependencies]
